@@ -54,3 +54,5 @@ The repository includes:
 - Develop data visualization skills
 - Explore applied Artificial Intelligence
 - Build professional portfolio projects for Data Analyst roles
+
+<!-- Professional profile README -->
